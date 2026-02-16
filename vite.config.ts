@@ -10,7 +10,7 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base:"/GVEKASA",
+  base:"/GVEKASA/",
   resolve: {
     alias: {
       // Alias @ to the src directory
